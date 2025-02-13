@@ -22,5 +22,5 @@ void main(){ //funcion principal
     var rectangulo  =figura(10,5);//se crea el objeto rectangulo a partid de la class fiura con los valores 10 y 5
     rectangulo.mostrar();//se manda a llamar a la funcion mostrar
     rectangulo.calcularArea();
-    rectangulo.calcularperimetro();//vida del maion
+    rectangulo.calcularperimetro();//vida del main
 }
